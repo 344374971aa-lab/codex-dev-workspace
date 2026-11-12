@@ -1,0 +1,5 @@
+[Style of Music]
+Mandarin pop folk-rock, 92 BPM, key of A minor. Warm male or female vocal, clear diction. Instruments: erhu, acoustic guitar, light electronic drums, subtle synth pad, occasional dizi flute. Production: modern but organic, wide chorus, tight verse. Mood: nostalgic, uplifting, urban Chongqing nightscape (Yangtze, Hongya Cave lights, monorail through building). No English vocals. Radio-ready mix.
+
+[Lyrics]
+(See lyrics.zh.md — paste full lyric with section tags [Verse], [Chorus], etc.)
